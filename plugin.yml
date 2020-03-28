@@ -1,0 +1,10 @@
+name: FreeMoneyPlugin
+author: CiBear
+version: 2
+api:
+- 3.11.0
+main: cibear\freemoney\FreeMoney
+website: https://github.com/CiBearBot/FreeMoneyPlugin
+commands:
+ freemoney:
+  description:
