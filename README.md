@@ -1,0 +1,2 @@
+# FreeMoneyPlugin
+re
